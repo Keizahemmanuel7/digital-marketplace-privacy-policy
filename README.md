@@ -1,7 +1,7 @@
 # Privacy Policy  
 Digital Services Marketplace  
 
-Effective Date: 11 January 2026  
+Effective Date: 14th March ,2026  
 
 Digital Services Marketplace is a free mobile application developed by Kasanvu Emmanuel. This Service is provided at no cost and is intended for use “as is.”  
 
