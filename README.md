@@ -1,130 +1,199 @@
-# Privacy Policy
-**Digital Marketplace – Courses & Services**
+# Privacy Policy  
+Digital Services Marketplace  
 
-Digital Marketplace – Courses & Services is a free mobile application developed by **Kasanvu Emmanuel**. This Service is provided at no cost and is intended for use as is.
+Effective Date: 11 January 2026  
 
-This Privacy Policy explains how information is collected, used, and disclosed when users access or use the Service.
+Digital Services Marketplace is a free mobile application developed by Kasanvu Emmanuel. This Service is provided at no cost and is intended for use “as is.”  
 
-By using this Service, you agree to the collection and use of information in accordance with this Privacy Policy.
+This Privacy Policy explains how we collect, use, disclose, and safeguard information when you use the application. By accessing or using Digital Services Marketplace, you agree to the practices described in this Privacy Policy.  
 
----
-## Permissions Used
+---  
 
-This application only requests the minimum permissions required for normal functionality.
+## 1. Permissions Used  
 
-Permissions That May Be Used
-• Internet Access – Allows the app to connect to the internet to load product pages, store content, and external links.
+We comply with Google Play’s requirement to request only necessary permissions.  
 
-Permissions Not Used
-• Camera
-• Microphone
-• Contacts
-• Location
-• SMS
-• Call Logs
-• Device Storage
+### Permissions That May Be Used  
 
-This application does not access or collect personal information through device permissions.
-## Information Collection and Use
+• Internet Access (android.permission.INTERNET)  
+This permission is required to:  
+- Load marketplace content and digital services  
+- Display external websites within the app (WebView)  
+- Enable secure communication with third-party platforms  
 
-The Digital Marketplace – Courses & Services app does **not directly collect, store, or process personal information** on its own servers.
+### Permissions NOT Used  
 
-The app may provide access to **third-party platforms, websites, or services** through embedded WebView technology. When interacting with these third-party services, users may be required to provide personal information such as:
+Digital Services Marketplace does NOT request or access the following permissions:  
+
+• Camera  
+• Microphone  
+• Location (GPS)  
+• Contacts  
+• SMS or MMS  
+• Call Logs  
+• Device Storage / Files  
+• Bluetooth  
+• Background Location  
+
+We do not collect or access personal data through device permissions.  
+
+---  
+
+## 2. Information Collection and Use  
+
+Digital Services Marketplace does NOT directly collect, store, or process personal information on its own servers.  
+
+However, the app may provide access to third-party platforms, services, or websites through WebView technology. When using these services, users may voluntarily provide personal data such as:  
 
 - Email address  
-- Account or login details  
-- Purchase or subscription information  
-- Payment or billing details  
-- Course enrollment or service usage information  
+- Account login credentials  
+- Payment and billing information  
+- Purchase or subscription details  
+- Service usage or enrollment data  
 
-Any information provided is handled according to the privacy policies of the respective third-party service providers.
+IMPORTANT:  
+All such information is collected and processed directly by third-party providers, not by Digital Services Marketplace.  
 
----
+---  
 
-## Third-Party Services
+## 3. Third-Party Services  
 
-The Service may include or rely on third-party services that may collect information used to identify you. These services may include, but are not limited to:
+This Service may include or rely on third-party services that may collect information used to identify users. These include, but are not limited to:  
 
-- Google Play Services  
-- Payment processing platforms  
-- Analytics and performance monitoring services  
-- Third-party course providers or digital service platforms  
+• Google Play Services  
+• Payment processing providers (e.g., mobile money, card processors)  
+• Analytics and performance monitoring tools  
+• Third-party digital service providers  
 
-Each third-party service has its own Privacy Policy governing how information is used.
+Each third-party service operates under its own Privacy Policy. We encourage users to review those policies.  
 
----
+We do NOT sell, rent, or share personal user data with third parties.  
 
-## Log Data
+---  
 
-In the event of an error while using the Service, diagnostic data (Log Data) may be collected through third-party services. This Log Data may include:
+## 4. Log Data  
 
-- Device Internet Protocol (IP) address  
-- Device model and operating system version  
+In the event of an app error, diagnostic information (Log Data) may be collected automatically by third-party tools. This may include:  
+
+- IP address  
+- Device name and model  
+- Operating system version  
 - App configuration  
-- Date and time of usage  
-- Other technical or diagnostic information  
+- Time and date of usage  
+- Other technical data  
 
-This data is used solely to improve the functionality and reliability of the Service.
+This data is used solely for debugging, improving performance, and maintaining service reliability.  
+
+---  
+
+## 5. Cookies and Tracking Technologies  
+
+This app does not use cookies directly.  
+
+However, third-party websites accessed through the app may use cookies or similar technologies to enhance user experience, track usage, or enable features.  
+
+Users can manage cookie preferences through their browser or device settings.  
+
+---  
+
+## 6. Service Providers  
+
+We may engage third-party companies and individuals to:  
+
+- Facilitate app functionality  
+- Process transactions or subscriptions  
+- Provide analytics and diagnostics  
+- Deliver digital services  
+
+These service providers are granted access only to the information necessary to perform their tasks and are required to protect user data.  
+
+---  
+
+## 7. Data Security  
+
+We implement reasonable technical and organizational measures to protect information.  
+
+However, please note that no method of transmission over the internet or electronic storage is completely secure. Therefore, we cannot guarantee absolute data security.  
+
+---  
+
+## 8. External Links Disclaimer  
+
+The app may contain links to third-party websites or services that are not operated by us.  
+
+We are not responsible for:  
+- The content of external websites  
+- Their privacy practices  
+- Their data collection policies  
+
+Users are advised to review the Privacy Policies of any third-party services they access.  
+
+---  
+
+## 9. Children’s Privacy  
+
+Digital Services Marketplace is NOT intended for children under the age of 13.  
+
+We do not knowingly collect personal data from children under 13.  
+
+If we discover that a child has provided personal information, we will take immediate steps to delete such data.  
+
+Parents or guardians who believe their child has submitted personal information may contact us.  
+
+---  
+
+## 10. Data Retention  
+
+Since we do not directly collect or store personal data, we do not retain user information.  
+
+Any data provided to third-party services is subject to their individual data retention policies.  
+
+---  
+
+## 11. User Rights and Choices  
+
+Depending on your location and applicable laws, you may have rights such as:  
+
+- Accessing your personal data  
+- Requesting correction or deletion  
+- Withdrawing consent  
+- Restricting data processing  
+
+To exercise these rights, users should contact the relevant third-party service providers directly.  
+
+---  
+
+## 12. Google Play Compliance Statement  
+
+Digital Services Marketplace complies with Google Play Developer Program Policies, including:  
+
+- Transparency in data handling  
+- Clear disclosure of third-party data collection  
+- Limiting data access to only necessary permissions  
+- No unauthorized collection of personal or sensitive data  
+
+---  
+
+## 13. Changes to This Privacy Policy  
+
+We may update this Privacy Policy from time to time.  
+
+Any changes will be posted within the app or on the app listing. Users are encouraged to review this policy periodically.  
+
+---  
+
+## 14. Effective Date  
+
+This Privacy Policy is effective as of 11 January 2026.  
+
+---  
+
+## 15. Contact Us  
+
+If you have any questions, concerns, or requests regarding this Privacy Policy, please contact:  
+
+Email: keizahemmanuel4@gmail.com  
+Developer: Kasanvu Emmanuel  
+Location: Wakiso, Uganda  
 
 ---
-
-## Cookies
-
-This Service does not use cookies directly.
-
-However, third-party websites or services accessed through the app may use cookies or similar technologies to enhance their services and user experience. Users can choose to accept or refuse cookies through their browser or device settings.
-
----
-
-## Service Providers
-
-Third-party companies or individuals may be engaged to:
-
-- Facilitate the Service  
-- Process payments or subscriptions  
-- Provide analytics or technical support  
-- Deliver digital content or services  
-
-These third parties are granted access only to information necessary to perform their services and are obligated not to use or disclose it for any other purpose.
-
----
-
-## Security
-
-We value your trust and strive to use commercially acceptable methods to protect information. However, no method of transmission over the internet or electronic storage is completely secure, and absolute security cannot be guaranteed.
-
----
-
-## Links to External Sites
-
-The Service may contain links to external websites or services that are not operated by us. If you click on a third-party link, you will be directed to that site.
-
-We strongly encourage you to review the Privacy Policies of these external websites. We have no control over and assume no responsibility for the content, privacy practices, or policies of any third-party sites or services.
-
----
-
-## Children’s Privacy
-
-This Service is **not intended for use by children under the age of 13**. We do not knowingly collect personally identifiable information from children under 13.
-
-If you are a parent or guardian and believe that your child has provided personal information, please contact us so that appropriate action can be taken.
-
----
-
-## Changes to This Privacy Policy
-
-This Privacy Policy may be updated from time to time. Any changes will be posted on this page, and users are advised to review this Privacy Policy periodically for updates.
-
----
-
-## Effective Date
-
-This Privacy Policy is effective as of **11 January 2026**.
-
----
-
-## Contact Us
-
-If you have any questions or suggestions regarding this Privacy Policy, please contact us at:
-
-📧 **keizahemmanuel4@gmail.com**
