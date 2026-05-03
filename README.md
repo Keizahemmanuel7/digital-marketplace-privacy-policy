@@ -132,7 +132,7 @@ Users are advised to review the Privacy Policies of any third-party services the
 
 ## 9. Children’s Privacy  
 
-Digital Services Marketplace is NOT intended for children under the age of 13.  
+Digital Services Marketplace is NOT intended for children under the age of 18.  
 
 We do not knowingly collect personal data from children under 13.  
 
