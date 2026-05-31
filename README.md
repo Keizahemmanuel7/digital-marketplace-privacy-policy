@@ -4,9 +4,11 @@ Digital Services Marketplace
 
 Effective Date: 31 May 2026
 
-Digital Services Marketplace is a mobile application developed by Kasanvu Emmanuel. The app serves as a gateway to the Copecart platform, allowing users to discover, access, and purchase digital products, online courses, ebooks, educational content, and other digital services through the Copecart website.
+Digital Services Marketplace is a mobile application developed by Kasanvu Emmanuel. The app provides users with access to digital products, online courses, ebooks, software, educational resources, subscriptions, and other digital services available through the Copecart platform.
 
-This Privacy Policy explains how information is handled when you use the Digital Services Marketplace app and the Copecart platform accessible through the app.
+The Digital Services Marketplace app primarily functions as a gateway that allows users to access products and services offered through Copecart. Most account registration, login, purchases, payment processing, digital product delivery, and customer account management are provided through the Copecart website and its authorized service providers.
+
+This Privacy Policy explains how information is handled when you use the Digital Services Marketplace app and the Copecart services accessible through the app.
 
 By accessing or using Digital Services Marketplace, you agree to the practices described in this Privacy Policy.
 
@@ -14,78 +16,116 @@ By accessing or using Digital Services Marketplace, you agree to the practices d
 
 1. HOW THE DIGITAL SERVICES MARKETPLACE APP OPERATES
 
-The Digital Services Marketplace app primarily functions as an interface that provides access to the Copecart platform.
+Digital Services Marketplace serves as an interface that connects users to digital products and services offered through the Copecart platform.
 
-Most account registration, login, purchases, payment processing, digital product delivery, course enrollment, and customer account functionality are provided through the Copecart website accessible within the app.
+When users create accounts, sign in, purchase digital products, enroll in courses, submit payment information, or communicate with vendors, these activities are generally processed through Copecart and its authorized partners.
 
-While Google Play Data Safety disclosures may describe certain information as collected through the app experience, much of this information is collected and processed through the Copecart platform when users interact with website features available inside the app.
+While Google Play Data Safety disclosures may indicate that certain information is collected through the app experience, much of this information is collected and processed through Copecart when users interact with website features available within the app.
 
 ---
 
 2. PERMISSIONS USED
 
-We comply with Google Play requirements by requesting only permissions necessary for app functionality.
-
-Permissions That May Be Used
+The app requests only permissions necessary for normal functionality and compliance with Google Play requirements.
 
 Internet Access (android.permission.INTERNET)
 
 This permission is required to:
 
-- Load marketplace content and digital services
-- Display online content and external websites within the app
-- Enable secure communication with third-party platforms
-- Access the Copecart platform and related services
+- Load marketplace content
+- Display digital products and services
+- Connect to Copecart
+- Enable secure communication
+- Process user requests
+- Access online resources
 
 Permissions Not Used
 
-Digital Services Marketplace does NOT request or access:
+Digital Services Marketplace does not request or access:
 
 - Camera
 - Microphone
-- Location (GPS)
 - Contacts
 - SMS or MMS
 - Call Logs
-- Device Storage / Files
-- Bluetooth
+- GPS Location
 - Background Location
+- Bluetooth
+- Device Storage or Files
 
-We do not collect personal information through device permissions.
+The app does not collect personal information through device permissions.
 
 ---
 
-3. INFORMATION COLLECTED THROUGH THE COPECART PLATFORM
+3. INFORMATION COLLECTED THROUGH COPECART
 
-Digital Services Marketplace does not directly collect, store, or process personal information on its own servers.
+Digital Services Marketplace does not directly collect, store, or maintain customer information on its own servers.
 
-However, when users interact with the Copecart platform through the app, the following information may be collected and processed by Copecart and its authorized service providers:
+However, when users interact with Copecart through the app, Copecart and its authorized service providers may collect information including:
 
-- Email Address
-- User ID / Username
-- Full Name
-- Billing Information
-- Purchase Information
-- Transaction History
-- Course Enrollment Information
-- Digital Product Access Information
-- Payment Information
+- Email address
+- User account information
+- Username
+- Full name
+- Billing information
+- Purchase history
+- Transaction information
+- Payment information
+- Course enrollment information
+- Customer support communications
 
 This information may be used for:
 
-- Account registration and authentication
-- Account management
+- Account registration
+- User authentication
+- Course enrollment
 - Digital product delivery
-- Course enrollment and access
 - Payment processing
-- Fraud prevention and security
 - Customer support
-- Legal and regulatory compliance
+- Fraud prevention
+- Security monitoring
+- Legal compliance
+- Service improvement
+
+Users should review Copecart's Privacy Policy for detailed information regarding how personal data is collected, processed, stored, and protected.
 
 ---
 
-4. THIRD-PARTY SERVICES
+12. DATA DELETION
 
+Users may request either of the following:
+
+Account Deletion
+
+Users may request deletion of their account and associated personal information where applicable.
+
+Partial Data Deletion
+
+Users may request deletion of specific personal information without deleting their entire account, where permitted.
+
+Data deletion requests can be submitted through the following page:
+
+[INSERT YOUR DIGITAL SERVICES MARKETPLACE DATA DELETION URL]
+
+Or by contacting:
+
+Email: keizahemmanuel4@gmail.com
+
+Requests relating to information processed by Copecart may also need to be directed to Copecart or the relevant vendor responsible for processing that information.
+
+For additional information regarding available deletion options, users should review the Data Deletion Request page listed above.
+
+---
+
+17. CONTACT INFORMATION
+
+If you have questions, concerns, or requests regarding this Privacy Policy, please contact:
+
+Developer: Kasanvu Emmanuel
+
+Email: keizahemmanuel4@gmail.com
+
+Location: Wakiso, Uganda
 This Service may include or rely on third-party services that may collect information used to identify users.
 
 These services may include:
