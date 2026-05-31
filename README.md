@@ -47,7 +47,7 @@ Digital Services Marketplace does NOT request or access:
 - Contacts
 - SMS or MMS
 - Call Logs
-Storage / Files
+- Device Storage / Files
 - Bluetooth
 - Background Location
 
@@ -163,48 +163,111 @@ We may rely on third-party companies and individuals to:
 - Monitor performance and diagnostics
 - Maintain platform operations
 
-Depending on your location and applicable laws, you may have rights such as:  
-
-- Accessing your personal data  
-- Requesting correction or deletion  
-- Withdrawing consent  
-- Restricting data processing  
-
-To exercise these rights, users should contact the relevant third-party service providers directly.  
-
----  
-
-## 12. Google Play Compliance Statement  
-
-Digital Services Marketplace complies with Google Play Developer Program Policies, including:  
-
-- Transparency in data handling  
-- Clear disclosure of third-party data collection  
-- Limiting data access to only necessary permissions  
-- No unauthorized collection of personal or sensitive data  
-
----  
-
-## 13. Changes to This Privacy Policy  
-
-We may update this Privacy Policy from time to time.  
-
-Any changes will be posted within the app or on the app listing. Users are encouraged to review this policy periodically.  
-
----  
-
-## 14. Effective Date  
-
-This Privacy Policy is effective as of 11 January 2026.  
-
----  
-
-## 15. Contact Us  
-
-If you have any questions, concerns, or requests regarding this Privacy Policy, please contact:  
-
-Email: keizahemmanuel4@gmail.com  
-Developer: Kasanvu Emmanuel  
-Location: Wakiso, Uganda  
+These providers may have access to information necessary to perform their services and are expected to protect user information appropriately.
 
 ---
+
+9. DATA SECURITY
+
+Data transmitted through the Digital Services Marketplace app and the Copecart platform is protected using secure communication methods and encryption where applicable.
+
+Although reasonable measures are taken to protect information, no method of electronic transmission or storage can be guaranteed to be completely secure.
+
+---
+
+10. EXTERNAL LINKS DISCLAIMER
+
+The app may contain links to third-party websites and services.
+
+We are not responsible for:
+
+- Content on third-party websites
+- Privacy practices of third-party services
+- Data collection activities performed by external providers
+
+Users should review the Privacy Policies of any third-party services they access.
+
+---
+
+11. DATA RETENTION
+
+Digital Services Marketplace does not directly retain personal information.
+
+Information provided through the Copecart platform is retained according to Copecart's policies and applicable legal requirements.
+
+---
+
+12. DATA DELETION
+
+Users may request:
+
+- Deletion of their account and associated data
+- Deletion of specific personal information without deleting their account
+
+Data deletion requests can be submitted through:
+
+[INSERT DIGITAL SERVICES MARKETPLACE DATA DELETION URL]
+
+Or by contacting:
+
+Email: keizahemmanuel4@gmail.com
+
+---
+
+13. USER RIGHTS AND CHOICES
+
+Depending on applicable laws, users may have rights to:
+
+- Access personal information
+- Correct inaccurate information
+- Request deletion of information
+- Restrict certain processing activities
+- Withdraw consent where applicable
+
+Requests relating to information processed through Copecart should be directed to the relevant service provider.
+
+---
+
+14. CHILDREN'S PRIVACY
+
+Digital Services Marketplace is intended for users aged 18 years and above.
+
+This app is not directed to children under the age of 13.
+
+We do not knowingly collect personal information from children under 13. If such information is discovered, appropriate steps will be taken to delete it.
+
+Parents or guardians who believe a child has submitted personal information may contact us.
+
+---
+
+15. GOOGLE PLAY COMPLIANCE STATEMENT
+
+Digital Services Marketplace is designed to comply with Google Play Developer Program Policies, including:
+
+- Transparency regarding data handling
+- Disclosure of third-party data collection
+- Limiting permissions to those necessary for functionality
+- Protection of user information
+- Compliance with applicable privacy requirements
+
+---
+
+16. CHANGES TO THIS PRIVACY POLICY
+
+We may update this Privacy Policy from time to time.
+
+Any updates will be posted within the app, on the app listing, or through other appropriate means.
+
+Users are encouraged to review this Privacy Policy periodically.
+
+---
+
+17. CONTACT INFORMATION
+
+If you have questions, concerns, or requests regarding this Privacy Policy, please contact:
+
+Email: keizahemmanuel4@gmail.com
+
+Developer: Kasanvu Emmanuel
+
+Location: Wakiso, Uganda
