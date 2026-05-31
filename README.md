@@ -4,9 +4,9 @@ Digital Services Marketplace
 
 Effective Date: 31 May 2026
 
-Digital Services Marketplace is a mobile application developed by Kasanvu Emmanuel. The app provides users with access to digital products, online courses, ebooks, software, educational resources, subscriptions, and other digital services available through the Copecart platform.
+Digital Services Marketplace is a mobile application developed by Kasanvu Emmanuel. The app provides users with access to digital products, online courses, ebooks, software, educational resources, subscriptions, coaching programs, and other digital services available through the Copecart platform.
 
-The Digital Services Marketplace app primarily functions as a gateway that allows users to access products and services offered through Copecart. Most account registration, login, purchases, payment processing, digital product delivery, and customer account management are provided through the Copecart website and its authorized service providers.
+The Digital Services Marketplace app primarily functions as a gateway that allows users to access products and services offered through Copecart. Most account registration, login, purchases, payment processing, digital product delivery, course enrollment, and customer account management are provided through the Copecart website and its authorized service providers.
 
 This Privacy Policy explains how information is handled when you use the Digital Services Marketplace app and the Copecart services accessible through the app.
 
@@ -72,6 +72,7 @@ However, when users interact with Copecart through the app, Copecart and its aut
 - Transaction information
 - Payment information
 - Course enrollment information
+- Digital product access information
 - Customer support communications
 
 This information may be used for:
@@ -91,6 +92,129 @@ Users should review Copecart's Privacy Policy for detailed information regarding
 
 ---
 
+4. THIRD-PARTY SERVICES
+
+The app may rely on third-party services that may collect information as part of providing their services.
+
+These services may include:
+
+- Copecart
+- Google Play Services
+- Payment processors
+- Hosting providers
+- Analytics providers
+- Security providers
+- Customer support services
+- Digital product vendors and merchants
+
+Each third-party service operates under its own Privacy Policy and Terms of Service.
+
+Users are encouraged to review those policies before using such services.
+
+---
+
+5. DATA SHARING
+
+Information collected through Copecart may be shared with authorized third parties when necessary to:
+
+- Process payments
+- Complete purchases
+- Deliver digital products
+- Provide customer support
+- Prevent fraud
+- Protect user accounts
+- Comply with legal obligations
+- Maintain platform operations
+
+Digital Services Marketplace does not sell personal information to third parties.
+
+---
+
+6. LOG DATA
+
+In the event of an app error or technical issue, diagnostic information may be collected automatically by third-party services.
+
+This information may include:
+
+- IP address
+- Device model
+- Device name
+- Operating system version
+- Browser information
+- App configuration
+- Date and time of use
+- Technical diagnostic data
+
+This information is used to improve reliability, security, troubleshooting, and overall service performance.
+
+---
+
+7. COOKIES AND TRACKING TECHNOLOGIES
+
+Digital Services Marketplace does not directly use cookies.
+
+However, websites and services accessed through the app, including Copecart, may use cookies and similar technologies to:
+
+- Remember user preferences
+- Maintain login sessions
+- Improve user experience
+- Analyze website performance
+- Provide security features
+
+Users may manage cookie settings through their browser preferences where applicable.
+
+---
+
+8. SERVICE PROVIDERS
+
+We may rely on third-party companies and individuals to:
+
+- Operate services
+- Process transactions
+- Deliver digital products
+- Provide customer support
+- Monitor performance
+- Analyze usage
+- Improve security
+- Maintain infrastructure
+
+These providers may have access to information necessary to perform their services and are expected to protect such information appropriately.
+
+---
+
+9. DATA SECURITY
+
+Reasonable administrative, technical, and organizational measures are used by service providers to help protect information transmitted through the app and associated services.
+
+However, no method of electronic transmission or storage can be guaranteed to be completely secure.
+
+Users provide information at their own discretion and risk.
+
+---
+
+10. EXTERNAL LINKS DISCLAIMER
+
+The app may contain links to third-party websites and services.
+
+We are not responsible for:
+
+- Third-party website content
+- Third-party privacy practices
+- External services
+- Data collection activities performed by third parties
+
+Users should review the Privacy Policies of any external websites they visit.
+
+---
+
+11. DATA RETENTION
+
+Digital Services Marketplace does not directly retain personal information.
+
+Information collected through Copecart is retained according to Copecart's policies, vendor requirements, legal obligations, and applicable regulations.
+
+---
+
 12. DATA DELETION
 
 Users may request either of the following:
@@ -105,7 +229,7 @@ Users may request deletion of specific personal information without deleting the
 
 Data deletion requests can be submitted through the following page:
 
-[INSERT YOUR DIGITAL SERVICES MARKETPLACE DATA DELETION URL]
+https://keizahemmanuel7.github.io/digital-services-marketplace-data-deletion/
 
 Or by contacting:
 
@@ -117,143 +241,6 @@ For additional information regarding available deletion options, users should re
 
 ---
 
-17. CONTACT INFORMATION
-
-If you have questions, concerns, or requests regarding this Privacy Policy, please contact:
-
-Developer: Kasanvu Emmanuel
-
-Email: keizahemmanuel4@gmail.com
-
-Location: Wakiso, Uganda
-This Service may include or rely on third-party services that may collect information used to identify users.
-
-These services may include:
-
-- Copecart Platform
-- Google Play Services
-- Payment processing providers
-- Hosting and content delivery providers
-- Analytics and performance monitoring services
-- Customer support providers
-- Other digital service providers
-
-Each third-party service operates under its own Privacy Policy and Terms of Service.
-
-We encourage users to review those policies before using such services.
-
----
-
-5. DATA SHARING
-
-Information collected through the Copecart platform may be shared with authorized service providers when necessary to:
-
-- Process payments
-- Deliver purchased digital products
-- Provide access to online courses and digital content
-- Prevent fraud and unauthorized activity
-- Maintain account security
-- Provide customer support
-- Comply with legal obligations
-
-We do not sell personal information to third parties.
-
----
-
-6. LOG DATA
-
-In the event of an app error or technical issue, diagnostic information may be collected automatically by third-party services.
-
-This information may include:
-
-- IP address
-- Device name and model
-- Operating system version
-- App configuration
-- Time and date of use
-- Technical diagnostic information
-
-This information is used solely to improve app stability, troubleshoot issues, and maintain service reliability.
-
----
-
-7. COOKIES AND TRACKING TECHNOLOGIES
-
-Digital Services Marketplace does not directly use cookies.
-
-However, websites and services accessed through the app, including the Copecart platform, may use cookies or similar technologies to:
-
-- Improve user experience
-- Remember user preferences
-- Enable account functionality
-- Analyze website performance
-
-Users may manage cookie preferences through their browser settings.
-
----
-
-8. SERVICE PROVIDERS
-
-We may rely on third-party companies and individuals to:
-
-- Facilitate app functionality
-- Process transactions
-- Deliver digital products
-- Provide customer support
-- Monitor performance and diagnostics
-- Maintain platform operations
-
-These providers may have access to information necessary to perform their services and are expected to protect user information appropriately.
-
----
-
-9. DATA SECURITY
-
-Data transmitted through the Digital Services Marketplace app and the Copecart platform is protected using secure communication methods and encryption where applicable.
-
-Although reasonable measures are taken to protect information, no method of electronic transmission or storage can be guaranteed to be completely secure.
-
----
-
-10. EXTERNAL LINKS DISCLAIMER
-
-The app may contain links to third-party websites and services.
-
-We are not responsible for:
-
-- Content on third-party websites
-- Privacy practices of third-party services
-- Data collection activities performed by external providers
-
-Users should review the Privacy Policies of any third-party services they access.
-
----
-
-11. DATA RETENTION
-
-Digital Services Marketplace does not directly retain personal information.
-
-Information provided through the Copecart platform is retained according to Copecart's policies and applicable legal requirements.
-
----
-
-12. DATA DELETION
-
-Users may request:
-
-- Deletion of their account and associated data
-- Deletion of specific personal information without deleting their account
-
-Data deletion requests can be submitted through:
-
-[INSERT DIGITAL SERVICES MARKETPLACE DATA DELETION URL]
-
-Or by contacting:
-
-Email: keizahemmanuel4@gmail.com
-
----
-
 13. USER RIGHTS AND CHOICES
 
 Depending on applicable laws, users may have rights to:
@@ -262,19 +249,20 @@ Depending on applicable laws, users may have rights to:
 - Correct inaccurate information
 - Request deletion of information
 - Restrict certain processing activities
+- Object to processing
 - Withdraw consent where applicable
 
-Requests relating to information processed through Copecart should be directed to the relevant service provider.
+Requests relating to information processed through Copecart should be directed to the relevant service provider where appropriate.
 
 ---
 
 14. CHILDREN'S PRIVACY
 
-Digital Services Marketplace is intended for users aged 18 years and above.
+Digital Services Marketplace is intended for users who are at least 18 years old.
 
-This app is not directed to children under the age of 13.
+The app is not directed toward children under the age of 13.
 
-We do not knowingly collect personal information from children under 13. If such information is discovered, appropriate steps will be taken to delete it.
+We do not knowingly collect personal information from children under 13. If we become aware that such information has been provided, reasonable steps will be taken to facilitate its removal.
 
 Parents or guardians who believe a child has submitted personal information may contact us.
 
@@ -282,13 +270,15 @@ Parents or guardians who believe a child has submitted personal information may 
 
 15. GOOGLE PLAY COMPLIANCE STATEMENT
 
-Digital Services Marketplace is designed to comply with Google Play Developer Program Policies, including:
+Digital Services Marketplace is designed to comply with applicable Google Play Developer Program Policies, including requirements relating to:
 
-- Transparency regarding data handling
-- Disclosure of third-party data collection
-- Limiting permissions to those necessary for functionality
-- Protection of user information
-- Compliance with applicable privacy requirements
+- User privacy
+- Data transparency
+- Permission disclosure
+- Data security
+- User protection
+
+Google Play Data Safety disclosures are provided to help users understand how information may be handled through the overall app experience, including information collected and processed by integrated third-party services such as Copecart.
 
 ---
 
@@ -296,9 +286,11 @@ Digital Services Marketplace is designed to comply with Google Play Developer Pr
 
 We may update this Privacy Policy from time to time.
 
-Any updates will be posted within the app, on the app listing, or through other appropriate means.
+Any updates will be posted within the app, through the app listing, or by other appropriate means.
 
 Users are encouraged to review this Privacy Policy periodically.
+
+Continued use of the app after changes become effective constitutes acceptance of the updated Privacy Policy.
 
 ---
 
@@ -306,8 +298,8 @@ Users are encouraged to review this Privacy Policy periodically.
 
 If you have questions, concerns, or requests regarding this Privacy Policy, please contact:
 
-Email: keizahemmanuel4@gmail.com
-
 Developer: Kasanvu Emmanuel
+
+Email: keizahemmanuel4@gmail.com
 
 Location: Wakiso, Uganda
